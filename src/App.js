@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload Marry Christmas and Happy new Year.
+          Edit <code>src/App.js</code> and save to reload Marry Christmas and Happy New Year.
         </p>
         <a
           className="App-link"
